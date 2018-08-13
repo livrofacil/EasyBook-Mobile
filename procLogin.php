@@ -1,13 +1,13 @@
 <?php
 
-$Mysqli = new mysqli('localhost', 'root', '', '');
+$Mysqli = new mysqli('easybook.idealizadigital.com', 'u225746644_root', 'u225746644_eb', 'bsiufra2018');
 
 $request = $_SERVER['REQUEST_METHOD'] == 'GET' ? $_GET : $_POST;
 
 switch ($request['acao']) {
 	
 	case "LoginWeb":
-		$usuario = addslashes($_POST['usuario']);
+		$usuario = addslashes($_POST['email']);
 		$senha = addslashes($_POST['senha']);
 
 		$erro = "";
@@ -17,7 +17,7 @@ switch ($request['acao']) {
 		$arr = array();
 
 		if(empty($erro)){
-			$query = "select * from usuarios where usuario = '{$usuario}' and senha = '{$senha}'";
+			$query = "select * from usuarios where email = '{$usuario}' and senha = '{$senha}'";
 			$result = $Mysqli->query($query);
 
 			if($result->num_rows > 0){
