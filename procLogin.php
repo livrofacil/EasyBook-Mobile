@@ -1,6 +1,6 @@
 <?php
 
-$Mysqli = new mysqli('easybook.idealizadigital.com', 'u225746644_root', 'u225746644_eb', 'bsiufra2018');
+$Mysqli = new mysqli('server130.hostinger.com.br', 'u225746644_root', 'u225746644_eb', 'bsiufra2018');
 
 $request = $_SERVER['REQUEST_METHOD'] == 'GET' ? $_GET : $_POST;
 
