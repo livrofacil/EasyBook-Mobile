@@ -19,7 +19,7 @@ var Index = {
 
          $.ajax({
             type: "POST",
-            url: "http://127.0.0.1/procLogin.php", 
+            url: "http://easybook.idealizadigital.com/mobile/procLogin.php", 
             data: {
                 acao: 'LoginWeb',
                 usuario: $("#usuario").val(),
