@@ -5,8 +5,7 @@ Motivação: Facilitar o acesso a leitura, visando aos clientes uma opção mais
 
 Objetivos: Trazer para as pessoas uma forma de acesso a livros de maneira rápida e fácil, e de baixo custo. Onde estarão disponíveis todo o tipo de conteúdo para leitura, desde infantil a adulto.  
 
-Funcionalidades:
-Cadastramentos de perfil de usuário. 
+Funcionalidades: 
 Disponibilizar categorias de livros.
 Sugestões de livros. 
 
