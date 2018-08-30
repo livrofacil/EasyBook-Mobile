@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\e6d72ba3952f0923536d2f6466b2fb6fa56b8cf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_917dfe514d49c70124f5864bfb43fcf305dc216e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\8f74f2a4aa4e8ad53ca9eb15b92339e806a4c3e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_a036ebbf19190a2c51ad446b93ab2f216dd51a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\5982c55f5fdd65b7235696afd2aa504f0fe74daa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_0c3b7e1058a26336a0407b4d62b8ed458ec055c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\79556038112f66448fe81d4b7b7df2a1e8d5fc35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_bbc9426e1709d59dab8e54eeb33551b062ec33c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\3a5622f09f353a16d20ffd5bd284a19dab881647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_e4b7a9d122a049eec98d110277ac13139a30e109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\f8feb888f8967966c9ee9a03523d5de23d7d69d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_8bd534ae338ffe7220962cbf75e7f78ccd5ca348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\55155fc9dc4553f4747ba05105f57eda2471056b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_441dbaac64b22c202e319b249155dbbe7c347930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\da76b44996da79e54d446ac88921405e3ce6082e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_a24391436b019fe419a99bb8c912e745b9387ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c6ea233a8822ad216069a732826feaeddc7c0434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\b6c7a6fb002b615a06ad12025966db396e17bd3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_e0e506e57a24a521650b7507dc2c5198716d28c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\.android\build-cache\1fc4296e731131fe2974e560e576c402e501ac75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\classes_3a91df89b6961074b73b091c4559f256638c95b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ROBERT\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ROBERT\AndroidStudioProjects\EasyBook\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_97daadb10a4b2a84d5e4df4fa0e7e071363ce13b.jar" />
+    </item>
+
+</items>
